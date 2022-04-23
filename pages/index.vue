@@ -28,6 +28,7 @@ const { data } = await useAsyncData("data", () => $fetch("/api/data"));
 const databases = ref({
   zh: data.value.mandarin,
   fr: data.value.french,
+  it: data.value.italian,
 });
 
 const lang = route.query.lang || "fr";

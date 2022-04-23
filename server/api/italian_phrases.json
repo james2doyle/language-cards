@@ -1,0 +1,584 @@
+[
+  {
+    "id": 1,
+    "english": "A glass / bottle",
+    "translated": "Una bicchiere / una bottiglia",
+    "pronounced": "OO-nah beek-kyeh-reh / boht-tee-lyah"
+  },
+  {
+    "id": 2,
+    "english": "Appetizer",
+    "translated": "Antipasto",
+    "pronounced": "Ahn-tee-pah-stoh"
+  },
+  {
+    "id": 3,
+    "english": "At what time?",
+    "translated": "A che ora?",
+    "pronounced": "Ah kay oar-ah?"
+  },
+  {
+    "id": 4,
+    "english": "Back",
+    "translated": "Dietro",
+    "pronounced": "Dee-et-roh"
+  },
+  {
+    "id": 5,
+    "english": "Call the police",
+    "translated": "Chiami la polizia",
+    "pronounced": "Kee-ya-mee la po-lee-zee-ah"
+  },
+  {
+    "id": 6,
+    "english": "Can I pay by card?",
+    "translated": "Posso pagare con la carta?",
+    "pronounced": "Pohs-soh pah-gah-reh kon la cahr-tah?"
+  },
+  {
+    "id": 7,
+    "english": "Can I see the menu please?",
+    "translated": "Il menu, per favore",
+    "pronounced": "Eel men-oo, pehr fah-voh-reh"
+  },
+  {
+    "id": 8,
+    "english": "Can you ship to…?",
+    "translated": "Quanto costa questo?",
+    "pronounced": "Kwahn-toh kohs-tah kwehs-toh??"
+  },
+  {
+    "id": 9,
+    "english": "Cheers! (To your health)",
+    "translated": "Salute!",
+    "pronounced": "Sah-loo-tay"
+  },
+  {
+    "id": 10,
+    "english": "Dessert",
+    "translated": "Dolci",
+    "pronounced": "Doll-chee"
+  },
+  {
+    "id": 11,
+    "english": "Do you speak English?",
+    "translated": "Parla Inglese?",
+    "pronounced": "Parh-la een-glay-zeh"
+  },
+  {
+    "id": 12,
+    "english": "Eight o’clock in the evening",
+    "translated": "Le otto di sera / ",
+    "pronounced": "Le ot-to dee seh-rah"
+  },
+  {
+    "id": 13,
+    "english": "Eight",
+    "translated": "Otto",
+    "pronounced": "Oh-toh"
+  },
+  {
+    "id": 14,
+    "english": "Eleven",
+    "translated": "Undici",
+    "pronounced": "Oon–dee-chee"
+  },
+  {
+    "id": 15,
+    "english": "Entrance",
+    "translated": "Entrata",
+    "pronounced": "En-trah-tah"
+  },
+  {
+    "id": 16,
+    "english": "Excuse me (for attention)",
+    "translated": "Scusi",
+    "pronounced": "Skooh–zee"
+  },
+  {
+    "id": 17,
+    "english": "Excuse me (to pass by)",
+    "translated": "Permesso",
+    "pronounced": "Pehr-mehs-soh"
+  },
+  {
+    "id": 18,
+    "english": "Exit",
+    "translated": "Uscita",
+    "pronounced": "Ooh-shee-tah"
+  },
+  {
+    "id": 19,
+    "english": "First course",
+    "translated": "Primo",
+    "pronounced": "Pree-moh"
+  },
+  {
+    "id": 20,
+    "english": "Five",
+    "translated": "Cinque",
+    "pronounced": "Cheen-kweh"
+  },
+  {
+    "id": 21,
+    "english": "Forward",
+    "translated": "Avanti",
+    "pronounced": "Ah-vahn-tee"
+  },
+  {
+    "id": 22,
+    "english": "Four",
+    "translated": "Quattro",
+    "pronounced": "Kwah-troh"
+  },
+  {
+    "id": 23,
+    "english": "Friday",
+    "translated": "Venerdì",
+    "pronounced": "Veh-nehr-dee"
+  },
+  {
+    "id": 24,
+    "english": "Gluten / Dairy / Fish",
+    "translated": "Glutine / Lattecini / Pesce",
+    "pronounced": "Gloo-teen-ay /  Lah-tay-cheen-ee / Pesh-ay"
+  },
+  {
+    "id": 25,
+    "english": "Go away!",
+    "translated": "Vai via!",
+    "pronounced": "Vy vee-ah!"
+  },
+  {
+    "id": 26,
+    "english": "Good afternoon (formal)",
+    "translated": "Buona sera",
+    "pronounced": "Bwoh-nah-seh-rah"
+  },
+  {
+    "id": 27,
+    "english": "Good bye (formal)",
+    "translated": "Arrivederci",
+    "pronounced": "Ahr-ree-veh-dehr-chee"
+  },
+  {
+    "id": 28,
+    "english": "Good morning (formal)",
+    "translated": "Buon giorno",
+    "pronounced": "Bwohn-johr-noh"
+  },
+  {
+    "id": 29,
+    "english": "Good night (formal)",
+    "translated": "Buona notte",
+    "pronounced": "Bwoh–nah–noh–teh"
+  },
+  {
+    "id": 30,
+    "english": "Good thank you",
+    "translated": "Bene grazie",
+    "pronounced": "Beh-neh grah-tsee-eh"
+  },
+  {
+    "id": 31,
+    "english": "Help!",
+    "translated": "Aiuto!",
+    "pronounced": "Ay-oo-toh!"
+  },
+  {
+    "id": 32,
+    "english": "Hi / Bye (informal)",
+    "translated": "Ciao!",
+    "pronounced": "Chow"
+  },
+  {
+    "id": 33,
+    "english": "House wine",
+    "translated": "Vino della casa",
+    "pronounced": "Vee-noh del-lah car-sah"
+  },
+  {
+    "id": 34,
+    "english": "How are you? (formal)",
+    "translated": "Come sta?",
+    "pronounced": "Koh-meh stah?"
+  },
+  {
+    "id": 35,
+    "english": "How much is this?",
+    "translated": "Quanto costa questo?",
+    "pronounced": "Kwahn-toh kohs-tah kwehs-toh??"
+  },
+  {
+    "id": 36,
+    "english": "I don’t understand",
+    "translated": "Non capisco",
+    "pronounced": "Non kah-pee-skoh"
+  },
+  {
+    "id": 37,
+    "english": "I don’t want it",
+    "translated": "Non lo voglio",
+    "pronounced": "Nohn loh voh-lyoh"
+  },
+  {
+    "id": 38,
+    "english": "I need a doctor",
+    "translated": "Ho bisogno di un dottore",
+    "pronounced": "Ho biz-ohn-nyo dee oon dot-tor-reh"
+  },
+  {
+    "id": 39,
+    "english": "I would like…",
+    "translated": "Vorrei…",
+    "pronounced": "Vor-ray…"
+  },
+  {
+    "id": 40,
+    "english": "In the afternoon",
+    "translated": "Di pomeriggio",
+    "pronounced": "Dee poh-meh-reed-joh"
+  },
+  {
+    "id": 41,
+    "english": "In the evening",
+    "translated": "Di Sera",
+    "pronounced": "Dee seh–rah"
+  },
+  {
+    "id": 42,
+    "english": "In the morning",
+    "translated": "Di Mattina",
+    "pronounced": "Dee mah-teen-ah"
+  },
+  {
+    "id": 43,
+    "english": "I’m allergic to…",
+    "translated": "Sono allergica/o a...",
+    "pronounced": "Son-oh ah-ler-gee-koh / kah ah"
+  },
+  {
+    "id": 44,
+    "english": "I’m sorry",
+    "translated": "Mi dispiace",
+    "pronounced": "Mee dees-pyah-cheh"
+  },
+  {
+    "id": 45,
+    "english": "Left",
+    "translated": "Sinistra",
+    "pronounced": "See–nee-stra"
+  },
+  {
+    "id": 46,
+    "english": "Look out!",
+    "translated": "Attento!",
+    "pronounced": "At–ten-toh"
+  },
+  {
+    "id": 47,
+    "english": "Monday",
+    "translated": "Lunedì",
+    "pronounced": "Loo-neh-dee"
+  },
+  {
+    "id": 48,
+    "english": "My name is …",
+    "translated": "Mi chiamo",
+    "pronounced": "Mee kyah-moh"
+  },
+  {
+    "id": 49,
+    "english": "Newstand (for bus tickets)",
+    "translated": "Tabacchi",
+    "pronounced": "Tah-back-kee"
+  },
+  {
+    "id": 50,
+    "english": "Nine o’clock in the morning",
+    "translated": "Le nove",
+    "pronounced": "Le noh-vay"
+  },
+  {
+    "id": 51,
+    "english": "Nine",
+    "translated": "Nove",
+    "pronounced": "Noh-veh"
+  },
+  {
+    "id": 52,
+    "english": "No",
+    "translated": "No",
+    "pronounced": "Noh"
+  },
+  {
+    "id": 53,
+    "english": "Noon",
+    "translated": "Mezzogiorno",
+    "pronounced": "Mehd-dzoh-johr-noh"
+  },
+  {
+    "id": 54,
+    "english": "OK I’ll take it",
+    "translated": "Va bene, lo prendo",
+    "pronounced": "Vah beh-neh, loh prehn-doh"
+  },
+  {
+    "id": 55,
+    "english": "One / two ticket/s",
+    "translated": "Un / due biglietto/i",
+    "pronounced": "Oon beel-yet-toh / tee"
+  },
+  {
+    "id": 56,
+    "english": "One / two ticket/s",
+    "translated": "Un / due biglietto/i",
+    "pronounced": "Oon beel-yet-toh / tee"
+  },
+  {
+    "id": 57,
+    "english": "One senior",
+    "translated": "Un pensionato",
+    "pronounced": "Oon pen-seyoh-nah-toh"
+  },
+  {
+    "id": 58,
+    "english": "One student",
+    "translated": "Uno studente",
+    "pronounced": "Ooh-noh stoo-den-teh"
+  },
+  {
+    "id": 59,
+    "english": "One way",
+    "translated": "Andata",
+    "pronounced": "Ahn–dah-tah"
+  },
+  {
+    "id": 60,
+    "english": "One",
+    "translated": "Uno",
+    "pronounced": "Oo-noh"
+  },
+  {
+    "id": 61,
+    "english": "Please",
+    "translated": "Per favore",
+    "pronounced": "Pehr fah-voh-reh"
+  },
+  {
+    "id": 62,
+    "english": "Pleased to meet you",
+    "translated": "Piacere",
+    "pronounced": "Pyah-cheh-reh"
+  },
+  {
+    "id": 63,
+    "english": "Red / white wine",
+    "translated": "Vino rosso / bianco",
+    "pronounced": "Vee–noh ross-oh /  bee-ahn-koh"
+  },
+  {
+    "id": 64,
+    "english": "Return",
+    "translated": "Ritorno",
+    "pronounced": "Ree-torn-oh"
+  },
+  {
+    "id": 65,
+    "english": "Right",
+    "translated": "Destra",
+    "pronounced": "Deh-stra"
+  },
+  {
+    "id": 66,
+    "english": "Right",
+    "translated": "Uno studente",
+    "pronounced": "Ooh-noh stoo-den-teh"
+  },
+  {
+    "id": 67,
+    "english": "Saturday",
+    "translated": "Sabato",
+    "pronounced": "Sah-bah-toh"
+  },
+  {
+    "id": 68,
+    "english": "Second course",
+    "translated": "Secondo",
+    "pronounced": "Sek-kon-doh"
+  },
+  {
+    "id": 69,
+    "english": "Seven",
+    "translated": "Sette",
+    "pronounced": "Seht-tey"
+  },
+  {
+    "id": 70,
+    "english": "Six",
+    "translated": "Sei",
+    "pronounced": "Say"
+  },
+  {
+    "id": 71,
+    "english": "Straight ahead",
+    "translated": "Dritto",
+    "pronounced": "Dree-toh"
+  },
+  {
+    "id": 72,
+    "english": "Sunday",
+    "translated": "Domenica",
+    "pronounced": "Doh-meh-nee-kah"
+  },
+  {
+    "id": 73,
+    "english": "Ten",
+    "translated": "Dieci",
+    "pronounced": "Dee-EH-chee"
+  },
+  {
+    "id": 74,
+    "english": "Thank you",
+    "translated": "Grazie",
+    "pronounced": "Grah-tsee-eh"
+  },
+  {
+    "id": 75,
+    "english": "The check (bill) please",
+    "translated": "Il conto, per favore",
+    "pronounced": "Eel kon-toh, pehr fah-voh-reh"
+  },
+  {
+    "id": 76,
+    "english": "Three",
+    "translated": "Tre",
+    "pronounced": "Treh"
+  },
+  {
+    "id": 77,
+    "english": "Thursday",
+    "translated": "Giovedì",
+    "pronounced": "Joh-veh-dee"
+  },
+  {
+    "id": 78,
+    "english": "Today",
+    "translated": "Oggi",
+    "pronounced": "Ohd-jee"
+  },
+  {
+    "id": 79,
+    "english": "Tomorrow",
+    "translated": "Domani",
+    "pronounced": "Doh-mah-nee"
+  },
+  {
+    "id": 80,
+    "english": "Tuesday",
+    "translated": "Martedì",
+    "pronounced": "Mahr-teh-dee"
+  },
+  {
+    "id": 81,
+    "english": "Twelve",
+    "translated": "Dodici",
+    "pronounced": "Doh-dee-chee"
+  },
+  {
+    "id": 82,
+    "english": "Two adults / one child",
+    "translated": "Due adulti / un bambino",
+    "pronounced": "Doo-eh ah-dool-tee / oon  bahm-bee-noh"
+  },
+  {
+    "id": 83,
+    "english": "Two flavors please",
+    "translated": "Due gusti, per favore",
+    "pronounced": "Doo-eh goo-stee, pehr fah-voh-reh"
+  },
+  {
+    "id": 84,
+    "english": "Two",
+    "translated": "Due",
+    "pronounced": "Doo-eh"
+  },
+  {
+    "id": 85,
+    "english": "Wednesday",
+    "translated": "Mercoledì",
+    "pronounced": "Mehr-koh-leh-dee"
+  },
+  {
+    "id": 86,
+    "english": "What do you recommend?",
+    "translated": "Che cosa ci consiglia?",
+    "pronounced": "Kay koh-za chee kon-seel-ya?"
+  },
+  {
+    "id": 87,
+    "english": "What is your name?",
+    "translated": "Come si chiama?",
+    "pronounced": "Koh-meh see kyah-mah?"
+  },
+  {
+    "id": 88,
+    "english": "What platform for Rome?",
+    "translated": "Da quale binario per Roma?",
+    "pronounced": "Dah kwah-lay bin-ah-rio pehr Roh-mah?"
+  },
+  {
+    "id": 89,
+    "english": "When does it open / close?",
+    "translated": "Quando si apri / chiude?",
+    "pronounced": "Kwahn-doh see ah-pree / chee-oo-deh?"
+  },
+  {
+    "id": 90,
+    "english": "Where is the bag store / cloak room?",
+    "translated": "Dov’è la guardaroba?",
+    "pronounced": "Doh-veh lah gard-ah-robe-ah?"
+  },
+  {
+    "id": 91,
+    "english": "Where is the bus stop?",
+    "translated": "Dov’è la fermata",
+    "pronounced": "Doh-veh lah fur-mah-tah?"
+  },
+  {
+    "id": 92,
+    "english": "Where is the train station?",
+    "translated": "Dov’è la stazione?",
+    "pronounced": "Doh-veh lah stah-tzee-oh-neh?"
+  },
+  {
+    "id": 93,
+    "english": "Where is… ?",
+    "translated": "Dov’è…?",
+    "pronounced": "Doh-veh … ?"
+  },
+  {
+    "id": 94,
+    "english": "Where’s the bathroom?",
+    "translated": "Dov’è il bagno?",
+    "pronounced": "Doh-veh eel bahn-yoh?"
+  },
+  {
+    "id": 95,
+    "english": "Yes",
+    "translated": "Si",
+    "pronounced": "See"
+  },
+  {
+    "id": 96,
+    "english": "Yesterday",
+    "translated": "Ieri",
+    "pronounced": "Yeh-ree"
+  },
+  {
+    "id": 97,
+    "english": "You’re welcome",
+    "translated": "Prego",
+    "pronounced": "Preh-goh"
+  }
+]
