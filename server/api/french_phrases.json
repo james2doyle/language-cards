@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "english": "Are you able to take my photo/our photo?",
+    "translated": "Pourriez-vous prendre ma photo/notre photo?"
+  },
+  {
+    "id": 2,
+    "english": "Are you hungry (formal)?",
+    "translated": "Avez-vous faim?"
+  },
+  {
+    "id": 3,
+    "english": "At what time is it closed?",
+    "translated": "À quelle heure est-ce que s’est fermé?"
+  },
+  {
+    "id": 4,
+    "english": "At what time is it open?",
+    "translated": "À quelle heure est-ce que s’est ouvert?"
+  },
+  {
+    "id": 5,
+    "english": "At what time should we check out?",
+    "translated": "À quelle heure est-ce qu’il faut régler la note?"
+  },
+  {
+    "id": 6,
+    "english": "Can I do that?",
+    "translated": "Puis-je faire ça?"
+  },
+  {
+    "id": 7,
+    "english": "Can I pay with a credit card?",
+    "translated": "Est-ce que je peux payer avec une carte de crédit?"
+  },
+  {
+    "id": 8,
+    "english": "Can you help me (informal)?",
+    "translated": "Peux-tu m'aider?"
+  },
+  {
+    "id": 9,
+    "english": "Can you help me?",
+    "translated": "Pourriez-vous m’aider?"
+  },
+  {
+    "id": 10,
+    "english": "Can you please write that down?",
+    "translated": "Est-ce que vous pouvez l’écrire, s’il vous plaît?"
+  },
+  {
+    "id": 11,
+    "english": "Can you say it again? (formal)",
+    "translated": "Pourriez-vous répéter?"
+  },
+  {
+    "id": 12,
+    "english": "Come with me! (informal)",
+    "translated": "Viens avec moi!"
+  },
+  {
+    "id": 13,
+    "english": "Do you speak English?",
+    "translated": "Parlez-vous anglais?"
+  },
+  {
+    "id": 14,
+    "english": "Don’t worry!",
+    "translated": "Ne vous inquiétez pas!"
+  },
+  {
+    "id": 15,
+    "english": "Every day",
+    "translated": "Tous les jours"
+  },
+  {
+    "id": 16,
+    "english": "Exactly",
+    "translated": "Exactement"
+  },
+  {
+    "id": 17,
+    "english": "Excellent",
+    "translated": "Excellent"
+  },
+  {
+    "id": 18,
+    "english": "Excuse me",
+    "translated": "Excusez-moi"
+  },
+  {
+    "id": 19,
+    "english": "Go away!",
+    "translated": "Va-t'en!"
+  },
+  {
+    "id": 20,
+    "english": "Good morning, hello",
+    "translated": "Bonjour!"
+  },
+  {
+    "id": 21,
+    "english": "Goodbye",
+    "translated": "Au revoir"
+  },
+  {
+    "id": 22,
+    "english": "He is ready",
+    "translated": "Il est prêt"
+  },
+  {
+    "id": 23,
+    "english": "He wants to go there",
+    "translated": "Il veut y aller"
+  },
+  {
+    "id": 24,
+    "english": "Hello/Good day",
+    "translated": "Bonjour"
+  },
+  {
+    "id": 25,
+    "english": "Hey",
+    "translated": "Salut"
+  },
+  {
+    "id": 26,
+    "english": "How are you (informal)?",
+    "translated": "Comment vas-tu?"
+  },
+  {
+    "id": 27,
+    "english": "How are you?",
+    "translated": "Comment ça va? / Comment allez-vous?"
+  },
+  {
+    "id": 28,
+    "english": "How do you say that in French?",
+    "translated": "Comment dire ça en français?"
+  },
+  {
+    "id": 29,
+    "english": "How have you spent...? (informal)",
+    "translated": "Comment as-tu passé... ?"
+  },
+  {
+    "id": 30,
+    "english": "How horrible!",
+    "translated": "Quelle horreur!"
+  },
+  {
+    "id": 31,
+    "english": "How is your family?",
+    "translated": "Comment ça va votre famille?"
+  },
+  {
+    "id": 32,
+    "english": "How much does it cost?",
+    "translated": "Combien ça coûte?"
+  },
+  {
+    "id": 33,
+    "english": "How much is it?",
+    "translated": "C’est combien?"
+  },
+  {
+    "id": 34,
+    "english": "How much is this?",
+    "translated": "Combien cela coûte?"
+  },
+  {
+    "id": 35,
+    "english": "I am close to",
+    "translated": "Je suis près de"
+  },
+  {
+    "id": 36,
+    "english": "I am searching for a bag/a postcard/a book.",
+    "translated": "Je cherche un sac/une carte postale/un livre."
+  },
+  {
+    "id": 37,
+    "english": "I am searching for the hotel/hospital/bank.",
+    "translated": "Je cherche l’hôtel/l’hôpital/la banque."
+  },
+  {
+    "id": 38,
+    "english": "I am searching for the metro/train station/airport.",
+    "translated": "Je cherche le métro/le gare/l’aéroport."
+  },
+  {
+    "id": 39,
+    "english": "I am sorry (m)",
+    "translated": "Je suis désolé"
+  },
+  {
+    "id": 40,
+    "english": "I am waiting for my friends",
+    "translated": "J’attends mes amis"
+  },
+  {
+    "id": 41,
+    "english": "I do not speak French.",
+    "translated": "Je ne parle pas français."
+  },
+  {
+    "id": 42,
+    "english": "I do not understand.",
+    "translated": "Je ne comprends pas."
+  },
+  {
+    "id": 43,
+    "english": "I don't know",
+    "translated": "Je ne sais pas"
+  },
+  {
+    "id": 44,
+    "english": "I don't understand",
+    "translated": "Je ne comprends pas"
+  },
+  {
+    "id": 45,
+    "english": "I don’t know.",
+    "translated": "Je ne sais pas."
+  },
+  {
+    "id": 46,
+    "english": "I enjoyed speaking with you.",
+    "translated": "J’ai beaucoup aimé parler avec vous."
+  },
+  {
+    "id": 47,
+    "english": "I have already said that",
+    "translated": "J'ai déjà dit que"
+  },
+  {
+    "id": 48,
+    "english": "I have arrived (m)",
+    "translated": "Je suis arrivé"
+  },
+  {
+    "id": 49,
+    "english": "I heard that…",
+    "translated": "J’ai entendu que …"
+  },
+  {
+    "id": 50,
+    "english": "I must go.",
+    "translated": "Je dois y aller."
+  },
+  {
+    "id": 51,
+    "english": "I will be at",
+    "translated": "Je serai à"
+  },
+  {
+    "id": 52,
+    "english": "I would like a coffee.",
+    "translated": "Je voudrais un café."
+  },
+  {
+    "id": 53,
+    "english": "I would like a double room.",
+    "translated": "Je voudrais une chambre pour deux."
+  },
+  {
+    "id": 54,
+    "english": "I would like a glass.",
+    "translated": "Je voudrais un verre."
+  },
+  {
+    "id": 55,
+    "english": "I would like some water.",
+    "translated": "Je voudrais de l’eau."
+  },
+  {
+    "id": 56,
+    "english": "I would like to cancel my reservation.",
+    "translated": "Je voudrais annuler ma réservation."
+  },
+  {
+    "id": 57,
+    "english": "I would like to look at the schedule.",
+    "translated": "Je voudrais regarder l’horaire."
+  },
+  {
+    "id": 58,
+    "english": "I would like to purchase a one-way ticket/a round-trip ticket.",
+    "translated": "Je voudrais acheter un billet aller simple/aller-retour pour Paris."
+  },
+  {
+    "id": 59,
+    "english": "I would like to reserve a ticket.",
+    "translated": "Je voudrais réserver un billet."
+  },
+  {
+    "id": 60,
+    "english": "I'll be late",
+    "translated": "Je vais être en retard"
+  },
+  {
+    "id": 61,
+    "english": "I'll let you know (informal)",
+    "translated": "Je te tiens au courant"
+  },
+  {
+    "id": 62,
+    "english": "I'm lost (m)",
+    "translated": "Je suis perdu"
+  },
+  {
+    "id": 63,
+    "english": "Impossible",
+    "translated": "Impossible"
+  },
+  {
+    "id": 64,
+    "english": "Is it far/close?",
+    "translated": "Est-ce que c’est loin/proche?"
+  },
+  {
+    "id": 65,
+    "english": "Is it serious?",
+    "translated": "C’est grave?"
+  },
+  {
+    "id": 66,
+    "english": "Is that all?",
+    "translated": "C'est tout?"
+  },
+  {
+    "id": 67,
+    "english": "Is there air conditioning?",
+    "translated": "Est-ce qu’il y a de climatisation?"
+  },
+  {
+    "id": 68,
+    "english": "It is for you (formal)",
+    "translated": "C'est pour vous"
+  },
+  {
+    "id": 69,
+    "english": "It is not like that",
+    "translated": "Ce n’est pas comme ça"
+  },
+  {
+    "id": 70,
+    "english": "It is very nice",
+    "translated": "C'est très gentil"
+  },
+  {
+    "id": 71,
+    "english": "It’s a great deal!",
+    "translated": "C’est bon marché!"
+  },
+  {
+    "id": 72,
+    "english": "It’s good/bad/terrible.",
+    "translated": "C’est bon/mal/terrible."
+  },
+  {
+    "id": 73,
+    "english": "It’s straight ahead.",
+    "translated": "C’est tout droit."
+  },
+  {
+    "id": 74,
+    "english": "It’s to the left.",
+    "translated": "C’est à gauche."
+  },
+  {
+    "id": 75,
+    "english": "It’s to the right.",
+    "translated": "C’est à droite."
+  },
+  {
+    "id": 76,
+    "english": "It’s too expensive!",
+    "translated": "C’est trop cher!"
+  },
+  {
+    "id": 77,
+    "english": "I’ll be right back.",
+    "translated": "Je reviens tout de suite!"
+  },
+  {
+    "id": 78,
+    "english": "I’m good, thanks.",
+    "translated": "Ça va bien, merci."
+  },
+  {
+    "id": 79,
+    "english": "I’m sorry",
+    "translated": "Je suis desolé(e)."
+  },
+  {
+    "id": 80,
+    "english": "Keep in touch!",
+    "translated": "Restez en contact!"
+  },
+  {
+    "id": 81,
+    "english": "Later",
+    "translated": "Plus tard"
+  },
+  {
+    "id": 82,
+    "english": "Long time no see.",
+    "translated": "Ça fait longtemps."
+  },
+  {
+    "id": 83,
+    "english": "Look",
+    "translated": "Regardez"
+  },
+  {
+    "id": 84,
+    "english": "Mrs. /Mr. /Miss",
+    "translated": "Madame/Monsieur/Mademoiselle"
+  },
+  {
+    "id": 85,
+    "english": "No problem! (informal)",
+    "translated": "Pas de problème!"
+  },
+  {
+    "id": 86,
+    "english": "No problem",
+    "translated": "Ça n'est pas grave"
+  },
+  {
+    "id": 87,
+    "english": "Not at all",
+    "translated": "Pas du tout"
+  },
+  {
+    "id": 88,
+    "english": "Not for me",
+    "translated": "Pas pour moi"
+  },
+  {
+    "id": 89,
+    "english": "Now",
+    "translated": "Maintenant"
+  },
+  {
+    "id": 90,
+    "english": "Pardon, excuse me.",
+    "translated": "Pardon, excusez-moi."
+  },
+  {
+    "id": 91,
+    "english": "Please",
+    "translated": "S’il vous plaît"
+  },
+  {
+    "id": 92,
+    "english": "Plenty",
+    "translated": "Assez"
+  },
+  {
+    "id": 93,
+    "english": "Repeat, please.",
+    "translated": "Répétez, s’il vous plait."
+  },
+  {
+    "id": 94,
+    "english": "See you later!",
+    "translated": "À tout à l’heure!"
+  },
+  {
+    "id": 95,
+    "english": "Since when?",
+    "translated": "Depuis quand?"
+  },
+  {
+    "id": 96,
+    "english": "Sometimes",
+    "translated": "Parfois"
+  },
+  {
+    "id": 97,
+    "english": "Speak slowly, please.",
+    "translated": "Parlez lentement, s’il vous plaît."
+  },
+  {
+    "id": 98,
+    "english": "Tell me what you think.",
+    "translated": "Dites-moi ce que vous pensez."
+  },
+  {
+    "id": 99,
+    "english": "Thank you for your time.",
+    "translated": "Merci pour votre temps."
+  },
+  {
+    "id": 100,
+    "english": "Thank you/Thank you very much.",
+    "translated": "Merci/Merci beaucoup."
+  },
+  {
+    "id": 101,
+    "english": "That’s a good question.",
+    "translated": "C’est une bonne question."
+  },
+  {
+    "id": 102,
+    "english": "That’s good!",
+    "translated": "C’est bien!"
+  },
+  {
+    "id": 103,
+    "english": "The bill, please",
+    "translated": "L’addition, s’il vous plaît."
+  },
+  {
+    "id": 104,
+    "english": "The menu/fixed-price menu, please.",
+    "translated": "La carte/le menu, s’il vous plaît."
+  },
+  {
+    "id": 105,
+    "english": "Wait for us there",
+    "translated": "Attendez-nous là"
+  },
+  {
+    "id": 106,
+    "english": "We will speak later",
+    "translated": "Nous parlerons plus tard"
+  },
+  {
+    "id": 107,
+    "english": "Welcome.",
+    "translated": "Bienvenue."
+  },
+  {
+    "id": 108,
+    "english": "What are you plans this weekend?",
+    "translated": "Quels sont vos plans ce week-end?"
+  },
+  {
+    "id": 109,
+    "english": "What are you talking about?",
+    "translated": "Vous parlez de quoi?"
+  },
+  {
+    "id": 110,
+    "english": "What do you recommend (formal)?",
+    "translated": "Qu’est-ce que vous recommandez?"
+  },
+  {
+    "id": 111,
+    "english": "What do you want to do (formal)?",
+    "translated": "Que voulez-vous faire?"
+  },
+  {
+    "id": 112,
+    "english": "What is happening?",
+    "translated": "Qu'est-ce qui se passe?"
+  },
+  {
+    "id": 113,
+    "english": "What is it?",
+    "translated": "C'est quoi?"
+  },
+  {
+    "id": 114,
+    "english": "What rooms do you have available?",
+    "translated": "Quelles chambres avez-vous de disponible?"
+  },
+  {
+    "id": 115,
+    "english": "What time should it arrive?",
+    "translated": "À quelle heure faut-il arriver?"
+  },
+  {
+    "id": 116,
+    "english": "What's your name (informal)?",
+    "translated": "Comment t'appelles-tu?"
+  },
+  {
+    "id": 117,
+    "english": "What’s new?",
+    "translated": "Quoi de neuf?"
+  },
+  {
+    "id": 118,
+    "english": "Where are the shops?",
+    "translated": "Où sont les magasins?"
+  },
+  {
+    "id": 119,
+    "english": "Where are we?",
+    "translated": "Où sommes-nous?"
+  },
+  {
+    "id": 120,
+    "english": "Where can we eat?",
+    "translated": "Où pouvons-nous manger?"
+  },
+  {
+    "id": 121,
+    "english": "Where do we meet?",
+    "translated": "Où on se retrouve?"
+  },
+  {
+    "id": 122,
+    "english": "Where do you want to have dinner? (informal)",
+    "translated": "Où veux-tu dîner?"
+  },
+  {
+    "id": 123,
+    "english": "Where is a good restaurant/a good café",
+    "translated": "Où est un bon restaurant/un bon café?"
+  },
+  {
+    "id": 124,
+    "english": "Where is the bathroom?",
+    "translated": "Où sont les toilettes?"
+  },
+  {
+    "id": 125,
+    "english": "Where is the beach/city center.",
+    "translated": "Où est la plage/le centre-ville?"
+  },
+  {
+    "id": 126,
+    "english": "Where is the mall?",
+    "translated": "Où est le centre-commercial?"
+  },
+  {
+    "id": 127,
+    "english": "Where is the ticket window?",
+    "translated": "Où est le guichet?"
+  },
+  {
+    "id": 128,
+    "english": "Who is it?",
+    "translated": "Qui est-ce?"
+  },
+  {
+    "id": 129,
+    "english": "Why not?",
+    "translated": "Pourquoi pas?"
+  },
+  {
+    "id": 130,
+    "english": "Wow!",
+    "translated": "Waouh! Wow!"
+  },
+  {
+    "id": 131,
+    "english": "You are going to go there (informal)",
+    "translated": "Tu vas y aller"
+  },
+  {
+    "id": 132,
+    "english": "You’re welcome.",
+    "translated": "De rien."
+  }
+]

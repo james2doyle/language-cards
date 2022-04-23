@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "translated": "绝对不是。",
+    "english": "Absolutely not.",
+    "pronounced": "Juéduì bú shì。"
+  },
+  {
+    "id": 2,
+    "translated": "你跟我一起去吗？",
+    "english": "Are you coming with me?",
+    "pronounced": "Nǐ gēn wǒ yìqǐ qù ma?"
+  },
+  {
+    "id": 3,
+    "translated": "你能肯定吗？",
+    "english": "Are you sure?",
+    "pronounced": "Nǐ néng kěndìng ma?"
+  },
+  {
+    "id": 4,
+    "translated": "快到了吗?",
+    "english": "Are we almost there?",
+    "pronounced": "Kuài dàole ma?"
+  },
+  {
+    "id": 5,
+    "translated": "尽快。",
+    "english": "As soon as possible.",
+    "pronounced": "Jìnkuài。"
+  },
+  {
+    "id": 6,
+    "translated": "相信我。",
+    "english": "Believe me.",
+    "pronounced": "Xiāngxìn wǒ。"
+  },
+  {
+    "id": 7,
+    "translated": "买下来！",
+    "english": "Buy it!",
+    "pronounced": "Mǎi xià lái!"
+  },
+  {
+    "id": 8,
+    "translated": "明天打电话给我。",
+    "english": "Call me tomorrow.",
+    "pronounced": "Míngtiān dǎ diànhuà gěi wǒ。"
+  },
+  {
+    "id": 9,
+    "translated": "请您说得慢些好吗？",
+    "english": "Can you speak slowly?",
+    "pronounced": "Qǐng nín shuō de màn xiē hǎo ma?"
+  },
+  {
+    "id": 10,
+    "translated": "跟我来。",
+    "english": "Come with me.",
+    "pronounced": "Gēn wǒ lái。"
+  },
+  {
+    "id": 11,
+    "translated": "恭喜恭喜。",
+    "english": "Congratulations.",
+    "pronounced": "Gōngxǐ gōngxǐ。"
+  },
+  {
+    "id": 12,
+    "translated": "把它做对。",
+    "english": "Do it right!",
+    "pronounced": "Bǎ tā zuò duì。"
+  },
+  {
+    "id": 13,
+    "translated": "你当真？",
+    "english": "Do you mean it?",
+    "pronounced": "Nǐ dàngzhēn?"
+  },
+  {
+    "id": 14,
+    "translated": "你经常见到他吗？",
+    "english": "Do you see him often?",
+    "pronounced": "Nǐ jīngcháng jiàn dào tā ma?"
+  },
+  {
+    "id": 15,
+    "translated": "你明白了吗？",
+    "english": "Do you understand?",
+    "pronounced": "Nǐ míngbái le ma?"
+  },
+  {
+    "id": 16,
+    "translated": "你要吗？",
+    "english": "Do you want it?",
+    "pronounced": "Nǐ yào ma?"
+  },
+  {
+    "id": 17,
+    "translated": "你想要些什么？",
+    "english": "Do you want something?",
+    "pronounced": "Nǐ xiǎng yào xiē shénme?"
+  },
+  {
+    "id": 18,
+    "translated": "不要做。",
+    "english": "Don’t do it.",
+    "pronounced": "Bú yào zuò。"
+  },
+  {
+    "id": 19,
+    "translated": "不要夸张。",
+    "english": "Don’t exaggerate.",
+    "pronounced": "Bú yào kuāzhāng。"
+  },
+  {
+    "id": 20,
+    "translated": "不要告诉我。",
+    "english": "Don’t tell me that.",
+    "pronounced": "Bú yào gàosu wǒ。"
+  },
+  {
+    "id": 21,
+    "translated": "帮我一下。",
+    "english": "Give me a hand.",
+    "pronounced": "Bāng wǒ yíxià。"
+  },
+  {
+    "id": 22,
+    "translated": "一直往前走。",
+    "english": "Go right ahead.",
+    "pronounced": "Yìzhí wǎng qián zǒu。"
+  },
+  {
+    "id": 23,
+    "translated": "祝旅途愉快。",
+    "english": "Have a good trip.",
+    "pronounced": "Zhù lǚtú yúkuài。"
+  },
+  {
+    "id": 24,
+    "translated": "祝你一天过得愉快。",
+    "english": "Have a nice day.",
+    "pronounced": "Zhù nǐ yì tiān guò de yúkuài。"
+  },
+  {
+    "id": 25,
+    "translated": "再来一个。",
+    "english": "Have another one.",
+    "pronounced": "Zài lái yígè。"
+  },
+  {
+    "id": 26,
+    "translated": "你做完了吗？",
+    "english": "Have you finished?",
+    "pronounced": "Nǐ zuò wán le ma?"
+  },
+  {
+    "id": 27,
+    "translated": "他没空。",
+    "english": "He doesn’t have time.",
+    "pronounced": "Tā méi kòng。"
+  },
+  {
+    "id": 28,
+    "translated": "他现在已经在路上了。",
+    "english": "He is on his way.",
+    "pronounced": "Tā xiànzài yǐjīng zài lù shàng le。"
+  },
+  {
+    "id": 29,
+    "translated": "你好吗？",
+    "english": "How are you doing?",
+    "pronounced": "Nǐ hǎo ma?"
+  },
+  {
+    "id": 30,
+    "translated": "你要呆多久？",
+    "english": "How long are you staying?",
+    "pronounced": "Nǐ yào dāi duōjiǔ?"
+  },
+  {
+    "id": 31,
+    "translated": "多少钱?",
+    "english": "How much?",
+    "pronounced": "Duōshǎo qián?"
+  },
+  {
+    "id": 32,
+    "translated": "我对她着迷了。",
+    "english": "I am crazy about her.",
+    "pronounced": "Wǒ duì tā zháomí le。"
+  },
+  {
+    "id": 33,
+    "translated": "我在浪费时间。",
+    "english": "I am wasting my time.",
+    "pronounced": "Wǒ zài làngfèi shíjiān。"
+  },
+  {
+    "id": 34,
+    "translated": "我能做。",
+    "english": "I can do it.",
+    "pronounced": "Wǒ néng zuò。"
+  },
+  {
+    "id": 35,
+    "translated": "我简直不能相信。",
+    "english": "I can’t believe it.",
+    "pronounced": "Wǒ jiǎnzhí bùnéng xiāngxìn。"
+  },
+  {
+    "id": 36,
+    "translated": "我不能再等了。",
+    "english": "I can’t wait.",
+    "pronounced": "Wǒ bù néng zài děng le。"
+  },
+  {
+    "id": 37,
+    "translated": "我没时间了。",
+    "english": "I don’t have time.",
+    "pronounced": "Wǒ méi shíjiān le。"
+  },
+  {
+    "id": 38,
+    "translated": "我一个人都不认识。",
+    "english": "I don’t know anybody.",
+    "pronounced": "Wǒ yī gè rén dōu bú rènshi。"
+  },
+  {
+    "id": 39,
+    "translated": "我不喜欢。",
+    "english": "I don’t like it.",
+    "pronounced": "Wǒ bù xǐhuan。"
+  },
+  {
+    "id": 40,
+    "translated": "我认为不是。",
+    "english": "I don’t think so.",
+    "pronounced": "Wǒ rènwéi búshì。"
+  },
+  {
+    "id": 41,
+    "translated": "我感觉好多了。",
+    "english": "I feel much better.",
+    "pronounced": "Wǒ gǎnjué hǎo duō le。"
+  },
+  {
+    "id": 42,
+    "translated": "我找到了。",
+    "english": "I found it.",
+    "pronounced": "Wǒ zhǎo dào le。"
+  },
+  {
+    "id": 43,
+    "translated": "我讨厌你！",
+    "english": "I hate you!",
+    "pronounced": "Wǒ tǎoyàn nǐ!"
+  },
+  {
+    "id": 44,
+    "translated": "我希望如此。",
+    "english": "I hope so.",
+    "pronounced": "Wǒ xīwàng rúcǐ。"
+  },
+  {
+    "id": 45,
+    "translated": "我早知道了。",
+    "english": "I knew it.",
+    "pronounced": "Wǒ zǎo zhīdào le。"
+  },
+  {
+    "id": 46,
+    "translated": "我爱你。",
+    "english": "I love you.",
+    "pronounced": "Wǒ ài nǐ。"
+  },
+  {
+    "id": 47,
+    "translated": "我注意到了。",
+    "english": "I noticed that.",
+    "pronounced": "Wǒ zhùyì dào le。"
+  },
+  {
+    "id": 48,
+    "translated": "我明白了。",
+    "english": "I see.",
+    "pronounced": "Wǒ míngbái le。"
+  },
+  {
+    "id": 49,
+    "translated": "我认为是这样的。",
+    "english": "I think so.",
+    "pronounced": "Wǒ rènwéi shì zhèyàng de。"
+  },
+  {
+    "id": 50,
+    "translated": "我想跟他说话。",
+    "english": "I want to speak with him.",
+    "pronounced": "Wǒ xiǎng gēn tā shuō huà。"
+  },
+  {
+    "id": 51,
+    "translated": "我赢了。",
+    "english": "I won.",
+    "pronounced": "Wǒ yíng le。"
+  },
+  {
+    "id": 52,
+    "translated": "请给我一杯咖啡。",
+    "english": "I would like a cup of coffee, please.",
+    "pronounced": "Qǐng gěi wǒ yì bēi kāfēi。"
+  },
+  {
+    "id": 53,
+    "translated": "我饿死了。",
+    "english": "I’m hungry.",
+    "pronounced": "Wǒ è sǐ le。"
+  },
+  {
+    "id": 54,
+    "translated": "我要走了。",
+    "english": "I’m leaving.",
+    "pronounced": "Wǒ yào zǒu le。"
+  },
+  {
+    "id": 55,
+    "translated": "对不起。",
+    "english": "I’m sorry.",
+    "pronounced": "Duì bu qǐ。"
+  },
+  {
+    "id": 56,
+    "translated": "我习惯了。",
+    "english": "I’m used to it.",
+    "pronounced": "Wǒ xíguàn le。"
+  },
+  {
+    "id": 57,
+    "translated": "我会想念你的。",
+    "english": "I’ll miss you.",
+    "pronounced": "Wǒ huì xiǎngniàn nǐ de。"
+  },
+  {
+    "id": 58,
+    "translated": "我试试看。",
+    "english": "I’ll try.",
+    "pronounced": "Wǒ shìshì kàn。"
+  },
+  {
+    "id": 59,
+    "translated": "我很无聊。",
+    "english": "I’m bored.",
+    "pronounced": "Wǒ hěn wúliáo。"
+  },
+  {
+    "id": 60,
+    "translated": "我很忙。",
+    "english": "I’m busy.",
+    "pronounced": "Wǒ hěn máng。"
+  },
+  {
+    "id": 61,
+    "translated": "我玩得很开心。",
+    "english": "I’m having fun.",
+    "pronounced": "Wǒ wán de hěn kāixīn。"
+  },
+  {
+    "id": 62,
+    "translated": "我准备好了。",
+    "english": "I’m ready.",
+    "pronounced": "Wǒ zhǔnbèi hǎo le。"
+  },
+  {
+    "id": 63,
+    "translated": "我明白了。",
+    "english": "I’ve got it.",
+    "pronounced": "Wǒ míngbái le。"
+  },
+  {
+    "id": 64,
+    "translated": "真是难以置信！",
+    "english": "It’s incredible!",
+    "pronounced": "Zhēnshì nányǐ zhìxìn!"
+  },
+  {
+    "id": 65,
+    "translated": "很远吗？",
+    "english": "Is it far?",
+    "pronounced": "Hěn yuǎn ma?"
+  },
+  {
+    "id": 66,
+    "translated": "没关系。",
+    "english": "It doesn’t matter.",
+    "pronounced": "Méiguānxi。"
+  },
+  {
+    "id": 67,
+    "translated": "闻起来很香。",
+    "english": "It smells good.",
+    "pronounced": "Wén qǐlái hěn xiāng。"
+  },
+  {
+    "id": 68,
+    "translated": "是时候了。",
+    "english": "It’s about time.",
+    "pronounced": "Shì shíhou le。"
+  },
+  {
+    "id": 69,
+    "translated": "没事儿。",
+    "english": "It’s all right.",
+    "pronounced": "Méi shìr。"
+  },
+  {
+    "id": 70,
+    "translated": "很容易。",
+    "english": "It’s easy.",
+    "pronounced": "Hěn róngyì。"
+  },
+  {
+    "id": 71,
+    "translated": "很好。",
+    "english": "It’s good.",
+    "pronounced": "Hěn hǎo。"
+  },
+  {
+    "id": 72,
+    "translated": "离这很近。",
+    "english": "It’s near here.",
+    "pronounced": "Lí zhè hěn jìn。"
+  },
+  {
+    "id": 73,
+    "translated": "没什么。",
+    "english": "It’s nothing.",
+    "pronounced": "Méi shénme。"
+  },
+  {
+    "id": 74,
+    "translated": "该走了。",
+    "english": "It’s time to go.",
+    "pronounced": "Gāi zǒu le。"
+  },
+  {
+    "id": 75,
+    "translated": "那是不同的。",
+    "english": "It’s different.",
+    "pronounced": "Nà shì bùtóng de。"
+  },
+  {
+    "id": 76,
+    "translated": "很滑稽。",
+    "english": "It’s funny.",
+    "pronounced": "Hěn huájī。"
+  },
+  {
+    "id": 77,
+    "translated": "那是不可能的。",
+    "english": "It’s impossible.",
+    "pronounced": "Nà shì bù kěnéng de。"
+  },
+  {
+    "id": 78,
+    "translated": "还行。",
+    "english": "It’s not bad.",
+    "pronounced": "Hái xíng。"
+  },
+  {
+    "id": 79,
+    "translated": "不难。",
+    "english": "It’s not difficult.",
+    "pronounced": "Bù nán。"
+  },
+  {
+    "id": 80,
+    "translated": "不值得。",
+    "english": "It’s not worth it.",
+    "pronounced": "Bù zhí dé。"
+  },
+  {
+    "id": 81,
+    "translated": "很明显。",
+    "english": "It’s obvious.",
+    "pronounced": "Hěn míngxiǎn。"
+  },
+  {
+    "id": 82,
+    "translated": "还是一样的。",
+    "english": "It’s the same thing.",
+    "pronounced": "Háishì yíyàng de。"
+  },
+  {
+    "id": 83,
+    "translated": "轮到你了。",
+    "english": "It’s your turn.",
+    "pronounced": "Lún dào nǐ le。"
+  },
+  {
+    "id": 84,
+    "translated": "我也一样。",
+    "english": "Me too.",
+    "pronounced": "Wǒ yě yíyàng。"
+  },
+  {
+    "id": 85,
+    "translated": "还没有。",
+    "english": "Not yet.",
+    "pronounced": "Hái méiyǒu。"
+  },
+  {
+    "id": 86,
+    "translated": "放松！",
+    "english": "Relax!",
+    "pronounced": "Fàngsōng!"
+  },
+  {
+    "id": 87,
+    "translated": "明天见。",
+    "english": "See you tomorrow.",
+    "pronounced": "Míngtiān jiàn。"
+  },
+  {
+    "id": 88,
+    "translated": "她是我最好的朋友。",
+    "english": "She is my best friend.",
+    "pronounced": "Tā shì wǒ zuì hǎo de péngyǒu。"
+  },
+  {
+    "id": 89,
+    "translated": "她真聪明。",
+    "english": "She is so smart.",
+    "pronounced": "Tā zhēn cōngmíng。"
+  },
+  {
+    "id": 90,
+    "translated": "慢点儿！",
+    "english": "Slow down!",
+    "pronounced": "Màn diǎnr!"
+  },
+  {
+    "id": 91,
+    "translated": "告诉我。",
+    "english": "Tell me.",
+    "pronounced": "Gàosu wǒ。"
+  },
+  {
+    "id": 92,
+    "translated": "多谢。",
+    "english": "Thank you very much.",
+    "pronounced": "Duō xiè。"
+  },
+  {
+    "id": 93,
+    "translated": "这样的事情经常发生。",
+    "english": "That happens.",
+    "pronounced": "Zhè yàng de shìqíng jīngcháng fāshēng。"
+  },
+  {
+    "id": 94,
+    "translated": "够了。",
+    "english": "That’s enough.",
+    "pronounced": "Gòu le。"
+  },
+  {
+    "id": 95,
+    "translated": "很有趣。",
+    "english": "That’s interesting.",
+    "pronounced": "Hěn yǒuqù。"
+  },
+  {
+    "id": 96,
+    "translated": "对了。",
+    "english": "That’s right.",
+    "pronounced": "Duì le。"
+  },
+  {
+    "id": 97,
+    "translated": "这是真的。",
+    "english": "That’s true.",
+    "pronounced": "Zhè shì zhēn de。"
+  },
+  {
+    "id": 98,
+    "translated": "这里人很多。",
+    "english": "There are too many people here.",
+    "pronounced": "Zhèlǐ rén hěnduō。"
+  },
+  {
+    "id": 99,
+    "translated": "他们互相倾慕。",
+    "english": "They like each other.",
+    "pronounced": "Tāmen hùxiāng qīngmù。"
+  },
+  {
+    "id": 100,
+    "translated": "考虑一下。",
+    "english": "Think about it.",
+    "pronounced": "Kǎolǜ yí xià。"
+  },
+  {
+    "id": 101,
+    "translated": "太糟糕啦！",
+    "english": "Too bad!",
+    "pronounced": "Tài zāogāo la!"
+  },
+  {
+    "id": 102,
+    "translated": "等等我。",
+    "english": "Wait for me.",
+    "pronounced": "Děng děng wǒ。"
+  },
+  {
+    "id": 103,
+    "translated": "你说什么？",
+    "english": "What did you say?",
+    "pronounced": "Nǐ shuō shénme?"
+  },
+  {
+    "id": 104,
+    "translated": "你认为怎样？",
+    "english": "What do you think?",
+    "pronounced": "Nǐ rènwéi zěnyàng?"
+  },
+  {
+    "id": 105,
+    "translated": "他在说些什么？",
+    "english": "What is he talking about?",
+    "pronounced": "Tā zài shuō xiē shénme?"
+  },
+  {
+    "id": 106,
+    "translated": "多坏的天气！",
+    "english": "What terrible weather!",
+    "pronounced": "Duō huài de tiānqì!"
+  },
+  {
+    "id": 107,
+    "translated": "怎么啦？",
+    "english": "What’s going on/ happening / the problem?",
+    "pronounced": "Zěnme la?"
+  },
+  {
+    "id": 108,
+    "translated": "今天几号？",
+    "english": "What’s the date today?",
+    "pronounced": "Jīntiān jǐ hào?"
+  },
+  {
+    "id": 109,
+    "translated": "你去哪里？",
+    "english": "Where are you going?",
+    "pronounced": "Nǐ qù nǎ lǐ?"
+  },
+  {
+    "id": 110,
+    "translated": "他在哪里？",
+    "english": "Where is he?",
+    "pronounced": "Tā zài nǎ lǐ?"
+  },
+  {
+    "id": 111,
+    "translated": "你太性急了。",
+    "english": "You are impatient.",
+    "pronounced": "Nǐ tài xìngjí le。"
+  },
+  {
+    "id": 112,
+    "translated": "你看上去很累。",
+    "english": "You look tired.",
+    "pronounced": "Nǐ kàn shàngqù hěn lèi。"
+  },
+  {
+    "id": 113,
+    "translated": "你让我大吃一惊。",
+    "english": "You surprise me.",
+    "pronounced": "Nǐ ràng wǒ dà chī yì jīng。"
+  },
+  {
+    "id": 114,
+    "translated": "你疯了。",
+    "english": "You’re crazy.",
+    "pronounced": "Nǐ fēngle。"
+  },
+  {
+    "id": 115,
+    "translated": "别客气。",
+    "english": "You’re welcome.",
+    "pronounced": "Bié kèqi。"
+  },
+  {
+    "id": 116,
+    "translated": "你总是对的。",
+    "english": "You’re always right.",
+    "pronounced": "Nǐ zǒng shì duì de。"
+  },
+  {
+    "id": 117,
+    "translated": "你的心情不好。",
+    "english": "You’re in a bad mood.",
+    "pronounced": "Nǐ de xīnqíng bù hǎo。"
+  },
+  {
+    "id": 118,
+    "translated": "你在撒谎。",
+    "english": "You’re lying.",
+    "pronounced": "Nǐ zài sāhuǎng。"
+  },
+  {
+    "id": 119,
+    "translated": "你错了。",
+    "english": "You’re wrong.",
+    "pronounced": "Nǐ cuòle。"
+  },
+  {
+    "id": 120,
+    "translated": "哇塞！",
+    "english": "Wow!",
+    "pronounced": "Wasài!"
+  }
+]
