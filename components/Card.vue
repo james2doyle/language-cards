@@ -10,7 +10,7 @@
       shadow-xl
       overflow-hidden
       font-sans
-      h-[641px]
+      h-[510px]
     "
   >
     <div
