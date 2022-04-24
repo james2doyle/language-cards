@@ -1,12 +1,14 @@
 <template>
   <div class="flex flex-col justify-around">
     <div v-if="cards.length > 0 && currentCard" class="w-full max-w-xs mx-auto">
-      <Card
-        v-for="card in cards"
-        v-show="currentCard.id === card.id"
-        :key="card.id"
-        :card="card"
-      />
+      <TransitionGroup name="list" appear>
+        <Card
+          v-for="card in cards"
+          v-show="currentCard.id === card.id"
+          :key="card.id"
+          :card="card"
+        />
+      </TransitionGroup>
       <Controls
         :current-card="currentCard"
         @sound="sound"

@@ -53,9 +53,6 @@ import {
   useSpeechSynthesis,
   whenever,
   until,
-  useDark,
-  useToggle,
-  usePreferredDark,
 } from "@vueuse/core";
 import type { Card } from "components/Card.vue";
 
@@ -82,39 +79,28 @@ export default {
       return props?.currentCard?.translated || "";
     });
 
-    const synth =
-      typeof window !== "undefined"
-        ? window.speechSynthesis
-        : { getVoices: () => [] };
-    const voices = synth.getVoices();
+    const options = computed(() => {
+      const lang = route.query.lang || "fr";
+      const rate = route.query.rate ? parseFloat(route.query.rate) : 0.5;
 
-    const lang = ref(route.query.lang || "fr");
-    const rate = ref(route.query.rate ? parseFloat(route.query.rate) : 0.5);
-    const voice = ref(
-      voices.find((v) => v.lang.includes(lang.value)) || voices[0]
-    );
+      const synth =
+        typeof window !== "undefined"
+          ? window.speechSynthesis
+          : { getVoices: () => [] };
+      const voices = synth.getVoices();
+      const voice = voices.find((voice) => voice.lang.includes(lang));
 
-    watch(
-      () => route.query,
-      () => {
-        lang.value = route.query.lang;
-        rate.value = route.query.rate ? parseFloat(route.query.rate) : 0.5;
-        // refetch the voices
-        const synth =
-          typeof window !== "undefined"
-            ? window.speechSynthesis
-            : { getVoices: () => [] };
-        const voices = synth.getVoices();
-        voice.value = voices.find((voice) => voice.lang.includes(lang.value));
-      }
-    );
-
-    /** @todo use a function to fetch the config instead of a watcher? */
-    const { isPlaying, isSupported, speak } = useSpeechSynthesis(speechText, {
-      lang: lang.value,
-      rate: rate.value,
-      voice: voice.value,
+      return {
+        lang,
+        rate,
+        voice,
+      };
     });
+
+    const { isPlaying, isSupported, speak } = useSpeechSynthesis(
+      speechText,
+      options.value
+    );
 
     const sound = () => {
       until(isPlaying)
@@ -167,22 +153,7 @@ export default {
       save();
     });
 
-    const isDark = useDark({
-      selector: "body",
-      attribute: "class",
-      valueDark: "dark bg-gray-900",
-      valueLight: "light bg-white",
-    });
-    const shouldBeDark = usePreferredDark();
-    const toggleDark = useToggle(isDark);
-
-    if (shouldBeDark) {
-      toggleDark();
-    }
-
     return {
-      isDark,
-      toggleDark,
       starredCards,
       hasStar,
       isPlaying,
