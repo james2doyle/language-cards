@@ -82,12 +82,38 @@ export default {
       return props?.currentCard?.translated || "";
     });
 
-    const lang = route.query.lang || "fr";
-    const rate = route.query.rate ? parseFloat(route.query.rate) : 0.5;
+    const synth =
+      typeof window !== "undefined"
+        ? window.speechSynthesis
+        : { getVoices: () => [] };
+    const voices = synth.getVoices();
 
+    const lang = ref(route.query.lang || "fr");
+    const rate = ref(route.query.rate ? parseFloat(route.query.rate) : 0.5);
+    const voice = ref(
+      voices.find((v) => v.lang.includes(lang.value)) || voices[0]
+    );
+
+    watch(
+      () => route.query,
+      () => {
+        lang.value = route.query.lang;
+        rate.value = route.query.rate ? parseFloat(route.query.rate) : 0.5;
+        // refetch the voices
+        const synth =
+          typeof window !== "undefined"
+            ? window.speechSynthesis
+            : { getVoices: () => [] };
+        const voices = synth.getVoices();
+        voice.value = voices.find((voice) => voice.lang.includes(lang.value));
+      }
+    );
+
+    /** @todo use a function to fetch the config instead of a watcher? */
     const { isPlaying, isSupported, speak } = useSpeechSynthesis(speechText, {
-      lang,
-      rate,
+      lang: lang.value,
+      rate: rate.value,
+      voice: voice.value,
     });
 
     const sound = () => {
