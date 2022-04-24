@@ -1,6 +1,6 @@
 <template>
   <main class="flex flex-col sm:flex-row">
-    <!-- <Header /> -->
+    <Header />
     <div class="w-full flex-grow">
       <!-- main content -->
       <div class="px-6 py-10">
