@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute top-0 right-0 p-4">
+  <div class="flex-1 text-right">
     <select
       @input="updateLang($event)"
       v-model="$route.query.lang"

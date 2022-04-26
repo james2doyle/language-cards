@@ -9,20 +9,13 @@
           :card="card"
         />
       </TransitionGroup>
-      <Controls
-        :current-card="currentCard"
-        @sound="sound"
-        @previous="previous"
-        @save="save"
-        @next="next"
-        @restart="restart"
-      />
     </div>
   </div>
 </template>
 
 <script lang="ts" setup>
-const router = useRouter();
+import type { Card } from "components/Card.vue";
+
 const route = useRoute();
 
 const { data } = await useAsyncData("data", () => $fetch("/api/data"));
@@ -33,58 +26,14 @@ const databases = ref({
   it: data.value.italian,
 });
 
-const lang = ref(route.query.lang || "fr");
-const card = route.query.card ? parseInt(route.query.card, 10) - 1 : 0;
+const lang = ref(String(route.query.lang));
+const cardIndex = computed(() => parseInt(String(route.query.card), 10) - 1);
 
-const cards = ref([]);
+const cards = ref<Card[]>([]);
 
 cards.value = databases.value[lang.value];
 
-const currentIndex = ref(card);
-
 const currentCard = computed(() => {
-  return cards.value[currentIndex.value];
+  return cards.value[cardIndex.value];
 });
-
-const sound = () => {
-  // alert('sound event');
-};
-
-const previous = () => {
-  currentIndex.value =
-    currentIndex.value - 1 > -1
-      ? currentIndex.value - 1
-      : cards.value.length - 1;
-  router.push({
-    query: {
-      ...route.query,
-      card: currentIndex.value + 1,
-    },
-  });
-};
-
-const next = () => {
-  currentIndex.value =
-    currentIndex.value + 1 < cards.value.length ? currentIndex.value + 1 : 0;
-  router.push({
-    query: {
-      ...route.query,
-      card: currentIndex.value + 1,
-    },
-  });
-};
-
-const save = () => {
-  // alert('save event');
-};
-
-const restart = () => {
-  currentIndex.value = 0;
-  router.push({
-    query: {
-      ...route.query,
-      card: 1,
-    },
-  });
-};
 </script>

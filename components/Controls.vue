@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="controls-wrapper flex items-center justify-center space-x-4 mt-10"
-  >
+  <div class="controls-wrapper flex items-center justify-center space-x-4">
     <button
       type="button"
       name="sound"
@@ -80,8 +78,10 @@ export default {
     });
 
     const options = computed(() => {
-      const lang = route.query.lang || "fr";
-      const rate = route.query.rate ? parseFloat(route.query.rate) : 0.5;
+      const lang = String(route.query.lang) || "fr";
+      const rate = route.query.rate
+        ? parseFloat(String(route.query.rate))
+        : 0.5;
 
       const synth =
         typeof window !== "undefined"

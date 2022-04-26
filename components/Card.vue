@@ -15,13 +15,14 @@
   >
     <div
       class="
-        bg-blue-50
+        bg-white
         dark:bg-gray-700
         text-gray-900
         dark:text-white
-        px-6
-        py-48
+        px-4
         w-full
+        flex flex-col
+        justify-center
       "
     >
       <div>

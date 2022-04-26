@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full p-4">
+  <div class="flex-1 text-left">
     <ClientOnly>
       <button type="button" class="dark:text-white" @click="toggleDark()">
         <Transition name="fade" mode="out-in" appear>
